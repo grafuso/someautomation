@@ -1,2 +1,3 @@
 # someautomation
-Just some own stuff
+
+This is a little automation / GPIO repository for Raspberry Pi SoC.
