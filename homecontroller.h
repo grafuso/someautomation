@@ -13,7 +13,7 @@
 #define DEVICE_ON "*.on"
 #define DEVICE_OFF "*.off"
 #define PROGRAM_QUIT "*.quit"
-#define FILECONTENT "/home/homectrl/filecontent_test.log"
+#define FILECONTENT "filecontent_test.log"
 
 int dirscanner(char const* string,size_t size,bool status);
 int readwrite_file(const char* filename);
